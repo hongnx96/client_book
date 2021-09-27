@@ -1,4 +1,3 @@
-import { searchBookType, updateBookTypeById } from '../../../../server/models/BookType';
 import BookTypeService from './../../apis/modules/bookType';
 
 const actions = {
