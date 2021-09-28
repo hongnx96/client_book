@@ -6,7 +6,7 @@
 <script>
 export default {
     created() {
-        console.log(localStorage.getItem('Authorization'));
+        //console.log(localStorage.getItem('Authorization'));
     }
 }
 </script>
